@@ -312,25 +312,6 @@ Articuno.AI/
 "Best practices for Three.js optimization"
 ```
 
-## 🔧 API Endpoints
-
-### Chat
-- `POST /api/chat` - Send message to AI model
-- `POST /api/transcribe` - Audio to text conversion
-
-### Sessions
-- `POST /api/session/new` - Create new session
-- `GET /api/session/history/<session_id>` - Get chat history
-- `GET /api/session/list` - List all sessions
-- `GET /api/session/<session_id>/stats` - Session statistics
-- `DELETE /api/session/<session_id>/delete` - Delete session
-
-### Weather
-- `GET /api/weather` - Fetch weather data
-
-### Search
-- `GET /api/search` - Search conversations
-
 ## 🌟 Features in Detail
 
 ### Multi-modal Capabilities
@@ -351,22 +332,10 @@ Articuno.AI/
 - LaTeX math equations (future feature)
 - Embedded media support
 
-## 🤝 Contributing
-Contributions are welcome! Here's how you can help:
+## 🤝 Contribution
 
-1. **Fork the repository**
-2. **Create a feature branch** (`git checkout -b feature/AmazingFeature`)
-3. **Commit your changes** (`git commit -m 'Add some AmazingFeature'`)
-4. **Push to the branch** (`git push origin feature/AmazingFeature`)
-5. **Open a Pull Request**
-
-### Areas for Contribution
-- Adding new AI model integrations
-- Improving UI/UX design
-- Database optimization
-- API documentation
-- Bug fixes and testing
-- Feature enhancements
+**Found a bug? 🐞 Have a feature request?**
+- Open an issue or submit a pull request — contributions are always welcome!
 
 ## 🙏 Acknowledgments
 - OpenAI, Google, xAI, Microsoft, Meta, Cohere, Mistral AI for their amazing AI models
@@ -376,6 +345,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
