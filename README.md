@@ -351,7 +351,7 @@ Articuno.AI/
 ## ☎️ Contact
 For queries, feedback, or collaboration opportunities:
 - **Email:** codesnippets45@gmail.com
-- **GitHub:** [@BikramMondal5](https://github.com/BikramMondal5)
+- **GitHub:** [Bikram-Mondal3](https://github.com/Bikram-Mondal3)
 
 ## 🤝 Contributing
 Contributions are welcome! Here's how you can help:
@@ -376,11 +376,7 @@ Contributions are welcome! Here's how you can help:
 - MongoDB for database solutions
 - The open-source community for various libraries and tools
 
-## 📊 Project Status
-- **Version:** 2.0
-- **Status:** Active Development
-- **Last Updated:** December 2025
-
 ---
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
