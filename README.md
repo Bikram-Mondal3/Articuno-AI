@@ -49,7 +49,6 @@ Access industry-leading AI models including:
   - Azure AI Inference
   - Google Generative AI (Gemini)
   - LangChain & LangChain Community
-  - OpenAI API
 - **Audio Processing:** PyDub, FFmpeg, SpeechRecognition
 
 ### Frontend
@@ -58,20 +57,16 @@ Access industry-leading AI models including:
 - **Libraries:** 
   - Font Awesome 6.5.1 (icons)
   - GitHub Markdown CSS (markdown rendering)
-  - EmailJS (email integration)
 
 ### APIs & Services
 - **OpenWeatherMap** - Weather data and forecasts
 - **GitHub Models** - AI model access via GitHub PAT
 - **YouTube Transcript API** - Video transcript extraction
 - **Wikipedia API** - Knowledge retrieval
-- **Twilio** - SMS and voice alerts (optional)
-- **Gmail & Slack** - Notification integrations (optional)
 
 ### Development Tools
 - **Environment Management:** python-dotenv
-- **Data Processing:** Requests, JSON utilities
-- **Markdown:** Python-Markdown, Pygments (syntax highlighting)
+- **Markdown:** Markdown
 
 # 🧠 Available AI Models & Agents
 
@@ -345,6 +340,7 @@ Articuno.AI/
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
