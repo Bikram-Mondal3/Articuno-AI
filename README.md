@@ -183,22 +183,14 @@ pip install -r requirements.txt
    GITHUB_TOKEN=your_github_personal_access_token
    GEMINI_API_KEY=your_google_gemini_api_key
    
-   # Optional - Weather Features
+   # Set OPENWEATHER_API_KEY
    OPENWEATHER_API_KEY=your_openweather_api_key
    
-   # Optional - Voice Alerts
-   TWILIO_ACCOUNT_SID=your_twilio_account_sid
-   TWILIO_AUTH_TOKEN=your_twilio_auth_token
-   TWILIO_PHONE_NUMBER=your_twilio_phone_number
+   # Database
+   MONGODB_URI=Your_MONGODB_URI
    
-   # Optional - Database
-   MONGODB_URI=mongodb://127.0.0.1:27017/
-   
-   # Optional - Flask
-   SECRET_KEY=your_secret_key_for_sessions
-   
-   # Optional - FFmpeg Path (if not in PATH)
-   FFMPEG_PATH=C:\Program Files\ffmpeg\bin\ffmpeg.exe
+   # Set Path for FFmpeg 
+   FFMPEG_PATH=Your_FFMPEG_PATH
    ```
 
 6. **Get API Keys**
@@ -384,6 +376,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
 
