@@ -237,41 +237,52 @@ python test_mongodb.py
 
 ```
 Articuno.AI/
-├── agent/                      # AI model integrations
-│   ├── articuno_weather.py    # Weather agent
-│   ├── Bikram_AI.py           # Developer assistant
-│   ├── ChatWithVideo.py       # YouTube video analyzer
-│   ├── wikipedia_agent.py     # Wikipedia search
-│   ├── gpt_4o.py              # GPT-4o integration
-│   ├── gpt_4o_mini.py         # GPT-4o-mini integration
-│   ├── gemini_flash.py        # Gemini 2.0 Flash
-│   ├── gemini_2.5_flash.py    # Gemini 2.5 Flash
-│   ├── DeepSeek_V3_0324.py    # DeepSeek V3
-│   ├── grok3.py               # Grok-3
-│   ├── grok_3_mini.py         # Grok-3 Mini
-│   ├── Ministral_3B.py        # Ministral 3B
-│   ├── Codestral_2501.py      # Codestral 2501
-│   ├── Phi_4.py               # Phi-4
-│   ├── Phi_4_mini.py          # Phi-4 Mini
-│   ├── Meta_Llama_3.1_8B.py   # Llama 3.1 8B
-│   ├── Meta_Llama_3.3_70B.py  # Llama 3.3 70B
-│   ├── cohere_command_a.py    # Cohere Command A
-│   └── Cohere_command_r_plus.py # Cohere Command R+
-├── database/                   # MongoDB integration
+├── .kiro/
+│   └── specs/
+│       └── ai-multimodal-platform/
+│           ├── design.md
+│           ├── requirements.md
+│           └── tasks.md
+│
+├── agent/                          # AI model integrations
+│   ├── articuno_weather.py         # Weather agent
+│   ├── Bikram_AI.py                # Developer assistant
+│   ├── ChatWithVideo.py            # YouTube video analyzer
+│   ├── wikipedia_agent.py          # Wikipedia search
+│   ├── gpt_4o.py                   # GPT-4o integration
+│   ├── gpt_4o_mini.py              # GPT-4o-mini integration
+│   ├── gemini_flash.py             # Gemini 2.0 Flash
+│   ├── gemini_2.5_flash.py         # Gemini 2.5 Flash
+│   ├── DeepSeek_V3_0324.py         # DeepSeek V3
+│   ├── grok3.py                    # Grok-3
+│   ├── grok_3_mini.py              # Grok-3 Mini
+│   ├── Ministral_3B.py             # Ministral 3B
+│   ├── Codestral_2501.py           # Codestral 2501
+│   ├── Phi_4.py                    # Phi-4
+│   ├── Phi_4_mini.py               # Phi-4 Mini
+│   ├── Meta_Llama_3.1_8B.py        # Llama 3.1 8B
+│   ├── Meta_Llama_3.3_70B.py       # Llama 3.3 70B
+│   ├── cohere_command_a.py         # Cohere Command A
+│   └── Cohere_command_r_plus.py    # Cohere Command R+
+│
+├── database/                       # MongoDB integration
 │   ├── __init__.py
-│   └── db_manager.py          # Database operations
-├── static/                     # Frontend assets
-│   ├── script.js              # Main JavaScript
-│   ├── session_manager.js     # Session management
-│   ├── styles.css             # Styling
-│   └── icons/                 # UI icons and images
-├── templates/                  # HTML templates
-│   └── index.html             # Main interface
-├── app.py                      # Flask application
-├── requirements.txt            # Python dependencies
-├── clear_sessions.py          # Database cleanup utility
-├── test_mongodb.py            # MongoDB connection test
-└── README.md                   # Documentation
+│   └── db_manager.py               # Database operations
+│
+├── static/                         # Frontend assets
+│   ├── script.js                   # Main JavaScript
+│   ├── session_manager.js          # Session management
+│   ├── styles.css                  # Styling
+│   └── icons/                      # UI icons and images
+│
+├── templates/                      # HTML templates
+│   └── index.html                  # Main interface
+│
+├── app.py                          # Flask application
+├── requirements.txt                # Python dependencies
+├── clear_sessions.py               # Database cleanup utility
+├── test_mongodb.py                 # MongoDB connection test
+└── README.md                       # Documentation
 ```
 
 ## 🚀 Usage
@@ -373,5 +384,6 @@ Contributions are welcome! Here's how you can help:
 
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
 
