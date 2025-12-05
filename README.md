@@ -73,11 +73,11 @@ Access industry-leading AI models including:
 - **Data Processing:** Requests, JSON utilities
 - **Markdown:** Python-Markdown, Pygments (syntax highlighting)
 
-## 🧠 Available AI Models & Agents
+# 🧠 Available AI Models & Agents
 
-### 🤖 Specialized Agents (4)
+## 🤖 Specialized Agents (4)
 
-#### Articuno.AI 🌦️
+### Articuno.AI 🌦️
 Your intelligent weather assistant powered by Gemini AI
 - Real-time weather data via OpenWeatherMap API
 - 3-day weather forecasts with detailed conditions
@@ -86,7 +86,7 @@ Your intelligent weather assistant powered by Gemini AI
 - Emergency weather alerts (with Twilio)
 - Gmail & Slack integration for notifications
 
-#### Bikram.AI 🚀
+### Bikram.AI 🚀
 Your friendly Full-stack Developer companion
 - Personality based on Bikram Mondal
 - Expert in React, Node.js, Three.js, TypeScript
@@ -95,7 +95,7 @@ Your friendly Full-stack Developer companion
 - Learning through errors philosophy
 - GitHub and open-source expertise
 
-#### ChatWithVideo 📺
+### ChatWithVideo 📺
 AI-powered YouTube video analysis
 - Extract and analyze video transcripts
 - Conversational Q&A about video content
@@ -103,44 +103,44 @@ AI-powered YouTube video analysis
 - Supports multiple YouTube URL formats
 - Powered by GPT-4o via Azure
 
-#### Wikipedia DeepSearch 📚
+### Wikipedia DeepSearch 📚
 Instant access to Wikipedia knowledge
 - Quick article summaries
 - Intelligent information retrieval
 - Natural language queries
 - Context-aware responses
 
-### 🧠 AI Assistants (16)
+## 🧠 AI Assistants (16)
 
-#### OpenAI Models
+### OpenAI Models
 - **GPT-4o** - Flagship multimodal model with vision and advanced reasoning capabilities
 - **GPT-4o-mini** - Fast, efficient variant perfect for quick responses and general tasks
 
-#### DeepSeek Models
+### DeepSeek Models
 - **DeepSeek R1** - Open-weight reasoning model for complex problem-solving and coding
 - **DeepSeek V3** - 671B parameter powerhouse with superior reasoning (deepseek-ai/DeepSeek-V3-0324)
 
-#### Google Models
+### Google Models
 - **Gemini 2.0 Flash** - Fast multimodal LLM balancing speed and quality
 - **Gemini 2.5 Flash** - Latest Gemini with enhanced reasoning and understanding
 
-#### xAI Models
+### xAI Models
 - **Grok-3** - 314B parameter model with witty personality and real-time knowledge
 - **Grok-3 Mini** - Compact Grok variant with fast, engaging responses
 
-#### Mistral AI Models
+### Mistral AI Models
 - **Ministral 3B** - Compact 3B parameter model optimized for efficiency
 - **Codestral 2501** - 22B parameter specialist for code generation and technical tasks
 
-#### Microsoft Models
+### Microsoft Models
 - **Phi-4** - Microsoft's capable mid-size model with strong reasoning
 - **Phi-4 Mini** - Lightweight version for fast inference
 
-#### Meta Models
+### Meta Models
 - **Meta Llama 3.1 8B** - Efficient open-source model for general tasks
 - **Meta Llama 3.3 70B** - Powerful large-scale model with advanced capabilities
 
-#### Cohere Models
+### Cohere Models
 - **Cohere Command A** - Enterprise-grade conversational AI
 - **Cohere Command R+** - Enhanced reasoning and retrieval-augmented generation
 
@@ -157,7 +157,7 @@ Instant access to Wikipedia knowledge
 1. **Clone the repository**
 ```bash
 git clone https://github.com/Bikram-Mondal3/Articuno-AI.git
-cd Articuno.AI
+cd Articuno-AI
 ```
 
 2. **Install Python dependencies**
@@ -348,11 +348,6 @@ Articuno.AI/
 - LaTeX math equations (future feature)
 - Embedded media support
 
-## ☎️ Contact
-For queries, feedback, or collaboration opportunities:
-- **Email:** codesnippets45@gmail.com
-- **GitHub:** [Bikram-Mondal3](https://github.com/Bikram-Mondal3)
-
 ## 🤝 Contributing
 Contributions are welcome! Here's how you can help:
 
@@ -376,7 +371,7 @@ Contributions are welcome! Here's how you can help:
 - MongoDB for database solutions
 - The open-source community for various libraries and tools
 
----
 ## 📜 License
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
 
